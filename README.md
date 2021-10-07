@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Farrukh Yuldashboyev
 #### software developer & DevOps engineer
-![software developer & DevOps engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![software developer & DevOps engineer](https://github.com/yuldashboev/yuldashboev/blob/main/M%20Accounting%20Inc.-1.pdf)
 
 self-paced, active and reflective learner.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 

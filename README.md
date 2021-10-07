@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Farrukh Yuldashboyev
-#### software developer & DevOps engineer
+## Hi there 👋, I'm Farrukh Yuldashboyev
+### software developer & DevOps engineer
 ![software developer & DevOps engineer](https://github.com/yuldashboev/yuldashboev/blob/main/PDFtoJPG.me-1.jpg)
 
 self-paced, active and reflective learner.

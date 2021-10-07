@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Farrukh Yuldashboyev
 #### software developer & DevOps engineer
-![software developer & DevOps engineer](https://github.com/yuldashboev/yuldashboev/blob/main/M%20Accounting%20Inc.-1.pdf)
+![software developer & DevOps engineer](https://github.com/yuldashboev/yuldashboev/blob/main/PDFtoJPG.me-1.jpg)
 
 self-paced, active and reflective learner.
 
